@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+/Users/kimdy/Documents/study/JSP/project/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3816026000.index
+/BBS/src/main/java
