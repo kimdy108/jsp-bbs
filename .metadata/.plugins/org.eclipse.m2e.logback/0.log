@@ -6,3 +6,7 @@
 2025-05-24 14:49:33,839 [main] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@42e74fa3{STARTING}[12.0.16,sto=0] @12310ms
 2025-05-24 14:49:33,997 [qtp74003396-86] INFO  o.e.j.e.nested.ContextHandler._wse - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
 2025-05-24 14:50:00,689 [Worker-26: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-24 17:15:58,058 [Framework stop - Equinox Container: 24a3eacb-8d3b-4313-a8c2-ddde697da15a] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@42e74fa3{STOPPING}[12.0.16,sto=0]
+2025-05-24 17:15:58,062 [Framework stop - Equinox Container: 24a3eacb-8d3b-4313-a8c2-ddde697da15a] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@763b279{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2025-05-24 17:24:29,053 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-24 22:17:07,059 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
