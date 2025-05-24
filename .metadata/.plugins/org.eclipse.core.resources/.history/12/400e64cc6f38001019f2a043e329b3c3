@@ -1,0 +1,24 @@
+package user;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
+public class UserDAO {
+	
+	private Connection conn;
+	private PreparedStatement pstmt;
+	private ResultSet rs;
+	
+	public UserDAO() {
+		try {
+			String dbUrl = "jdbc:mysql://localhost:3308/BBS";
+			String dbID = "root";
+			String dbPassword = "ehduq108";
+			Class.forName("com.mysql.jdbc.Driver");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}
